@@ -1,7 +1,7 @@
 # 实用指南
 ## Apple Music音乐上传
 
-### Windows
+### Windows端
 Aim 1: 转换音乐格式为苹果可导入格式
 
 Step1 Foobar\File\Add folder\
@@ -25,11 +25,11 @@ Step4 PC iTunes\编辑\偏好设置
 勾选如下图所示"iCloud 音乐资料库",iTunes将自动上传导入的音乐至iCloud,所有设备均可在Apple Music中访问
 ![6](https://user-images.githubusercontent.com/61342986/196894960-416c3b57-f928-4be0-bfc9-7e2089ff9cd2.jpg)
 
-### Mac
+### Mac端
 Aim 1: 转换音乐格式为苹果可导入格式
 可在windows中操作
 
 Aim 2: 导入Apple Music并同步
 Apple Music\文件\导入
 Apple Music\文件\资料库\更新云端资料库
-之后可在iphone上看到同步专辑
+之后可在iphone端上看到同步专辑
