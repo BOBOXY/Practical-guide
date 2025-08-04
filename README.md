@@ -22,3 +22,7 @@ Step4 PC iTunes\编辑\偏好设置
 
 勾选如下图所示"iCloud 音乐资料库",iTunes将自动上传导入的音乐至iCloud,所有设备均可在Apple Music中访问
 ![6](https://user-images.githubusercontent.com/61342986/196894960-416c3b57-f928-4be0-bfc9-7e2089ff9cd2.jpg)
+
+Mac
+文件 导入
+文件 资料库 更新云端资料库
